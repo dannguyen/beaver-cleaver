@@ -1,0 +1,37 @@
+body {
+  background-color: #fff;
+  color: #333;
+  font-size: 15px;
+}
+
+h1, h3 {
+  font-family: "Proxima Nova", "Helvetica Neue", Arial;
+  font-weight: bold;
+}
+
+p{
+    font-family: "Proxima Nova", "Helvetica Neue", Arial;
+
+}
+
+pre code {
+  color: #ccc;
+  font-size: 140%;
+}
+
+.keyword {
+  color: #0044b3 !important;
+  font-weight: inherit !important;
+}
+
+.tag {
+  color: #600 !important;
+}
+
+code {
+  background-color: inherit;
+}
+
+em {
+  border-bottom: 1px solid #aaa;
+}
